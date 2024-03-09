@@ -1,1 +1,1 @@
-<h1>Hi from coolify</h1>
+<h1>Hi from coolify update commit</h1>
